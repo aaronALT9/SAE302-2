@@ -1,0 +1,204 @@
+{
+"source": "Defra, UKHHcons_17Sep26.ods (Household_quantity), valeurs non arrondies ; voir SAE303-2_synthese_donnees.xlsx",
+"years": [
+2021,
+2022,
+2023,
+2024,
+2025
+],
+"groups": [
+{
+"name": "Bread",
+"type": "food",
+"unit": "g",
+"values": [
+502.16,
+464.97,
+464.96,
+445.94,
+438.56
+]
+},
+{
+"name": "Meat",
+"type": "food",
+"unit": "g",
+"values": [
+976.33,
+854.17,
+856.93,
+848.29,
+880.3
+]
+},
+{
+"name": "Fish",
+"type": "food",
+"unit": "g",
+"values": [
+153.25,
+134.96,
+125.61,
+120.31,
+124.53
+]
+},
+{
+"name": "Milk",
+"type": "drink",
+"unit": "ml",
+"values": [
+1790.62,
+1635.13,
+1533.3,
+1471.13,
+1462.16
+]
+},
+{
+"name": "Cheese",
+"type": "food",
+"unit": "g",
+"values": [
+149.57,
+134.76,
+127.37,
+125.04,
+128.61
+]
+},
+{
+"name": "Fats",
+"type": "food",
+"unit": "g",
+"values": [
+169.18,
+139.16,
+152.97,
+144.68,
+138.16
+]
+},
+{
+"name": "Fruit",
+"type": "food",
+"unit": "g",
+"values": [
+1159.33,
+1026.16,
+949.28,
+961.11,
+964.91
+]
+},
+{
+"name": "Vegetables (excl. potatoes)",
+"type": "food",
+"unit": "g",
+"values": [
+1275.09,
+1079.43,
+1061.49,
+1003.18,
+1023.16
+]
+},
+{
+"name": "Potatoes",
+"type": "food",
+"unit": "g",
+"values": [
+643.42,
+551.83,
+577.74,
+550.48,
+539.57
+]
+},
+{
+"name": "Sugar and preserves",
+"type": "food",
+"unit": "g",
+"values": [
+107.64,
+82.84,
+77.72,
+85.28,
+78.23
+]
+},
+{
+"name": "Cakes, buns and pastries",
+"type": "food",
+"unit": "g",
+"values": [
+157.68,
+165.43,
+161.47,
+158.85,
+153.2
+]
+},
+{
+"name": "Biscuits and crispbreads",
+"type": "food",
+"unit": "g",
+"values": [
+164.96,
+162.24,
+155.91,
+156.27,
+157.99
+]
+},
+{
+"name": "Confectionery",
+"type": "food",
+"unit": "g",
+"values": [
+170.81,
+144.35,
+142.51,
+126.21,
+127.21
+]
+},
+{
+"name": "Tea, coffee and other beverages",
+"type": "drink",
+"unit": "g",
+"values": [
+60.12,
+56.86,
+49.21,
+50.34,
+56.29
+]
+},
+{
+"name": "Soft drinks",
+"type": "drink",
+"unit": "ml",
+"values": [
+1812.06,
+1670.3,
+1500.12,
+1555.09,
+1447.97
+]
+},
+{
+"name": "Alcoholic drinks",
+"type": "drink",
+"unit": "ml",
+"values": [
+875.9,
+702.51,
+622.77,
+592.33,
+551.08
+]
+}
+]
+}
