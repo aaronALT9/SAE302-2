@@ -10,7 +10,7 @@ body{margin:0;background:var(--bg);color:var(--ink);font:400 1.0625rem/1.65 var(
 /* header */
 .nav{position:fixed;top:0;left:0;right:0;z-index:30;display:grid;grid-template-columns:1fr auto 1fr;align-items:center;padding:1rem clamp(1rem,3vw,2.25rem);background:linear-gradient(180deg,rgba(4,10,7,.6),rgba(4,10,7,0))}
 .logo{display:inline-flex;align-items:center;text-decoration:none}
-.logo img{display:block;height:1.6rem;width:auto}
+.logo img{display:block;height:1.45rem;width:auto}
 .nav nav{display:flex;align-items:center;gap:1.75rem}.nav nav a{color:rgba(255,255,255,.7);text-decoration:none;font-size:1.05rem;font-weight:500;padding:.6rem .2rem}.nav nav a:hover{color:#fff}
 .btn{display:inline-block;font:500 .9rem var(--font);text-decoration:none;padding:.8rem 1.6rem;border-radius:999px;transition:transform .2s,background .2s,color .2s}
 .btn-light{background:#fff;color:#0a0a0a;justify-self:end}.btn-light:hover{background:var(--lime)}
